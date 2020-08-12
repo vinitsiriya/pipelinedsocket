@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "E7rortODBysx7TAw2/FL1ptMLXkshjFLQhOKejVZV39+3xABHAeCpKryPZIvMZXwHnug/u8SasztWM7SwQFLlQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\PipeSocket\\PipeSocket\\PipeSocket\\ExampleClient\\ExampleClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\system.io.pipelines\\5.0.0-preview.7.20364.11\\system.io.pipelines.5.0.0-preview.7.20364.11.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\PipeSocket\PipeSocket\PipeSocket\PipeSocket\bin\Debug\netcoreapp3.1\PipeSocket.exe
+C:\Users\User\source\repos\PipeSocket\PipeSocket\PipeSocket\PipeSocket\obj\Debug\netcoreapp3.1\PipeSocket.csprojAssemblyReference.cache
+C:\Users\User\source\repos\PipeSocket\PipeSocket\PipeSocket\PipeSocket\obj\Debug\netcoreapp3.1\PipeSocket.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\PipeSocket\PipeSocket\PipeSocket\PipeSocket\obj\Debug\netcoreapp3.1\PipeSocket.AssemblyInfo.cs
+C:\Users\User\source\repos\PipeSocket\PipeSocket\PipeSocket\PipeSocket\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Users\User\source\repos\PipeSocket\PipeSocket\PipeSocket\PipeSocket\obj\Debug\netcoreapp3.1\PipeSocket.csproj.CopyComplete

@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\PipeSocket\PipeSocket\PipeSocket\PipeSocket\bin\Debug\net5.0\PipeSocket.deps.json
+C:\Users\User\source\repos\PipeSocket\PipeSocket\PipeSocket\PipeSocket\bin\Debug\net5.0\PipeSocket.dll
+C:\Users\User\source\repos\PipeSocket\PipeSocket\PipeSocket\PipeSocket\bin\Debug\net5.0\PipeSocket.pdb
+C:\Users\User\source\repos\PipeSocket\PipeSocket\PipeSocket\PipeSocket\obj\Debug\net5.0\PipeSocket.csprojAssemblyReference.cache
+C:\Users\User\source\repos\PipeSocket\PipeSocket\PipeSocket\PipeSocket\obj\Debug\net5.0\PipeSocket.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\PipeSocket\PipeSocket\PipeSocket\PipeSocket\obj\Debug\net5.0\PipeSocket.AssemblyInfo.cs
+C:\Users\User\source\repos\PipeSocket\PipeSocket\PipeSocket\PipeSocket\obj\Debug\net5.0\PipeSocket.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PipeSocket\PipeSocket\PipeSocket\PipeSocket\obj\Debug\net5.0\PipeSocket.dll
+C:\Users\User\source\repos\PipeSocket\PipeSocket\PipeSocket\PipeSocket\obj\Debug\net5.0\PipeSocket.pdb
