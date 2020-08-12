@@ -1,8 +1,0 @@
-C:\Users\User\source\repos\PipeSocket\PipeSocket\PipeSocket\MemoryPool\obj\Debug\net5.0\MemoryPool.AssemblyInfoInputs.cache
-C:\Users\User\source\repos\PipeSocket\PipeSocket\PipeSocket\MemoryPool\obj\Debug\net5.0\MemoryPool.AssemblyInfo.cs
-C:\Users\User\source\repos\PipeSocket\PipeSocket\PipeSocket\MemoryPool\obj\Debug\net5.0\MemoryPool.csproj.CoreCompileInputs.cache
-C:\Users\User\source\repos\PipeSocket\PipeSocket\PipeSocket\MemoryPool\bin\Debug\net5.0\MemoryPool.deps.json
-C:\Users\User\source\repos\PipeSocket\PipeSocket\PipeSocket\MemoryPool\bin\Debug\net5.0\MemoryPool.dll
-C:\Users\User\source\repos\PipeSocket\PipeSocket\PipeSocket\MemoryPool\bin\Debug\net5.0\MemoryPool.pdb
-C:\Users\User\source\repos\PipeSocket\PipeSocket\PipeSocket\MemoryPool\obj\Debug\net5.0\MemoryPool.dll
-C:\Users\User\source\repos\PipeSocket\PipeSocket\PipeSocket\MemoryPool\obj\Debug\net5.0\MemoryPool.pdb

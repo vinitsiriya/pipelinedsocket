@@ -1,4 +1,0 @@
-C:\Users\User\source\repos\PipeSocket\PipeSocket\PipeSocket\ExampleClient\bin\Debug\netcoreapp3.1\ExampleClient.exe
-C:\Users\User\source\repos\PipeSocket\PipeSocket\PipeSocket\ExampleClient\obj\Debug\netcoreapp3.1\ExampleClient.csprojAssemblyReference.cache
-C:\Users\User\source\repos\PipeSocket\PipeSocket\PipeSocket\ExampleClient\obj\Debug\netcoreapp3.1\ExampleClient.AssemblyInfoInputs.cache
-C:\Users\User\source\repos\PipeSocket\PipeSocket\PipeSocket\ExampleClient\obj\Debug\netcoreapp3.1\ExampleClient.AssemblyInfo.cs

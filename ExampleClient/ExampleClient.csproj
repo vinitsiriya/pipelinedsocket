@@ -15,6 +15,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\MemoryPool\MemoryPool.csproj" />
+    <ProjectReference Include="..\PipelinedSocket\PipelinedSocket.csproj" />
   </ItemGroup>
 
 </Project>

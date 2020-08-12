@@ -39,7 +39,7 @@ namespace ExampleClient
             {
              
                 var memorypool = System.Buffers.SlabMemoryPoolFactory.Create();
-                PipeSocket.PipeSocket clientPipeSocket = new PipeSocket.PipeSocket(clientSocket, memorypool, PipeScheduler.Inline);
+                PipelinedSocket.PipeSocket clientPipeSocket = new PipelinedSocket.PipeSocket(clientSocket, memorypool, PipeScheduler.Inline);
                 clientPipeSocket.Start();
 
                // byte[] databytes = UTF8Encoding.UTF8.GetBytes("Hello hello ghellpo helloooeoeoeoeoeoeoeoe ");
@@ -60,7 +60,7 @@ namespace ExampleClient
             {
                 var scheduler = PipeScheduler.Inline;
                 var memorypool = System.Buffers.SlabMemoryPoolFactory.Create();
-                PipeSocket.PipeSocket pipeSocket = new PipeSocket.PipeSocket(serverSoc, memorypool, PipeScheduler.Inline);
+                PipelinedSocket.PipeSocket pipeSocket = new PipelinedSocket.PipeSocket(serverSoc, memorypool, PipeScheduler.Inline);
                 pipeSocket.Start();
 
 
